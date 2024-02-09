@@ -254,7 +254,7 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
     methodName: ResetDebugManager
   sceneClasses:
-    Assets/Scenes/HW2_new.unity:
+    Assets/Scenes/HW2.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -334,115 +334,115 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3620}
     - Class: 114
-      Script: {instanceID: 3886}
+      Script: {instanceID: 3884}
     - Class: 114
-      Script: {instanceID: 4190}
+      Script: {instanceID: 4188}
     - Class: 114
-      Script: {instanceID: 4230}
+      Script: {instanceID: 4228}
     - Class: 114
-      Script: {instanceID: 4928}
+      Script: {instanceID: 4926}
     - Class: 114
-      Script: {instanceID: 4960}
+      Script: {instanceID: 4958}
     - Class: 114
-      Script: {instanceID: 5006}
+      Script: {instanceID: 5004}
     - Class: 114
-      Script: {instanceID: 5130}
+      Script: {instanceID: 5128}
     - Class: 114
-      Script: {instanceID: 5290}
+      Script: {instanceID: 5288}
     - Class: 114
-      Script: {instanceID: 5308}
+      Script: {instanceID: 5306}
     - Class: 114
-      Script: {instanceID: 5764}
+      Script: {instanceID: 5762}
     - Class: 114
-      Script: {instanceID: 5772}
+      Script: {instanceID: 5770}
     - Class: 114
-      Script: {instanceID: 5818}
+      Script: {instanceID: 5816}
     - Class: 114
-      Script: {instanceID: 5834}
+      Script: {instanceID: 5832}
     - Class: 114
-      Script: {instanceID: 5938}
+      Script: {instanceID: 5936}
     - Class: 114
-      Script: {instanceID: 6010}
+      Script: {instanceID: 6008}
     - Class: 114
-      Script: {instanceID: 6392}
+      Script: {instanceID: 6390}
     - Class: 114
-      Script: {instanceID: 6404}
+      Script: {instanceID: 6402}
     - Class: 114
-      Script: {instanceID: 6452}
+      Script: {instanceID: 6450}
     - Class: 114
-      Script: {instanceID: 6610}
+      Script: {instanceID: 6608}
     - Class: 114
-      Script: {instanceID: 6976}
+      Script: {instanceID: 6974}
     - Class: 114
-      Script: {instanceID: 7288}
+      Script: {instanceID: 7286}
     - Class: 114
-      Script: {instanceID: 7414}
+      Script: {instanceID: 7412}
     - Class: 114
-      Script: {instanceID: 8254}
+      Script: {instanceID: 8252}
     - Class: 114
-      Script: {instanceID: 8324}
+      Script: {instanceID: 8322}
     - Class: 114
-      Script: {instanceID: 8458}
+      Script: {instanceID: 8456}
     - Class: 114
-      Script: {instanceID: 8656}
+      Script: {instanceID: 8654}
     - Class: 114
-      Script: {instanceID: 8824}
+      Script: {instanceID: 8822}
     - Class: 114
-      Script: {instanceID: 9208}
+      Script: {instanceID: 9206}
     - Class: 114
-      Script: {instanceID: 9524}
+      Script: {instanceID: 9522}
     - Class: 114
-      Script: {instanceID: 9594}
+      Script: {instanceID: 9592}
     - Class: 114
-      Script: {instanceID: 9724}
+      Script: {instanceID: 9722}
     - Class: 114
-      Script: {instanceID: 9728}
+      Script: {instanceID: 9726}
     - Class: 114
-      Script: {instanceID: 9856}
+      Script: {instanceID: 9854}
     - Class: 114
-      Script: {instanceID: 9862}
+      Script: {instanceID: 9860}
     - Class: 114
-      Script: {instanceID: 9966}
+      Script: {instanceID: 9964}
     - Class: 114
-      Script: {instanceID: 10218}
+      Script: {instanceID: 10216}
     - Class: 114
-      Script: {instanceID: 10292}
+      Script: {instanceID: 10290}
     - Class: 114
-      Script: {instanceID: 10420}
+      Script: {instanceID: 10418}
     - Class: 114
-      Script: {instanceID: 10650}
+      Script: {instanceID: 10648}
     - Class: 114
-      Script: {instanceID: 10814}
+      Script: {instanceID: 10812}
     - Class: 114
-      Script: {instanceID: 10862}
+      Script: {instanceID: 10860}
     - Class: 114
-      Script: {instanceID: 10946}
+      Script: {instanceID: 10944}
     - Class: 114
-      Script: {instanceID: 10998}
+      Script: {instanceID: 10996}
     - Class: 114
-      Script: {instanceID: 11188}
+      Script: {instanceID: 11186}
     - Class: 114
-      Script: {instanceID: 11354}
+      Script: {instanceID: 11352}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11450}
     - Class: 114
-      Script: {instanceID: 11752}
+      Script: {instanceID: 11746}
     - Class: 114
-      Script: {instanceID: 11896}
+      Script: {instanceID: 11890}
     - Class: 114
-      Script: {instanceID: 11984}
+      Script: {instanceID: 11978}
     - Class: 114
-      Script: {instanceID: 11996}
+      Script: {instanceID: 11990}
     - Class: 114
-      Script: {instanceID: 12080}
+      Script: {instanceID: 12074}
     - Class: 114
-      Script: {instanceID: 12216}
+      Script: {instanceID: 12210}
     - Class: 114
-      Script: {instanceID: 12364}
+      Script: {instanceID: 12358}
     - Class: 114
-      Script: {instanceID: 12664}
+      Script: {instanceID: 12658}
     - Class: 114
-      Script: {instanceID: 13474}
+      Script: {instanceID: 13468}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2884,5 +2884,5 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 19
   scenePathNames:
-  - Assets/Scenes/HW2_new.unity
-  playerPath: D:/YliopistoTietotekniikka/XrSystems/Builds/HW2_new/Xr_systems_project.exe
+  - Assets/Scenes/HW2.unity
+  playerPath: D:/YliopistoTietotekniikka/XrSystems/Builds/HW2_new/HW2Build/Xr_systems_project.exe
